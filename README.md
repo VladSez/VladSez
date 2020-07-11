@@ -1,4 +1,3 @@
-### Hi there 👋
 ![Alt Text](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 <!--
 **VladSez/VladSez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
