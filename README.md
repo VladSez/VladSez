@@ -11,4 +11,4 @@ Hi, I’m Vlad. I build things.
 ## Current Projects
 - [EasyInvoicePDF](https://github.com/VladSez/easy-invoice-pdf) -  Free & Open-Source Invoice Generator
 - [vladsazon.com](https://vladsazon.com) - Personal Website
-- stealth Voice AI project (stay tuned 😏)
+- stealth HR AI project (stay tuned 😏)
