@@ -11,4 +11,4 @@ Hi, I’m Vlad. I build things.
 ## Current Projects
 - [EasyInvoicePDF](https://github.com/VladSez/easy-invoice-pdf) -  Free & Open-Source Invoice Generator
 - [vladsazon.com](https://vladsazon.com) - Personal Website
-- [https://vladsez.github.io/iso-hoops/] - a 3D-pixel basketball
+- [pixel-hoops](https://vladsez.github.io/iso-hoops/) - a 3D-pixel basketball
